@@ -3,4 +3,4 @@
 
 1st task
 
-<img src="/tasks/1.png" alt="screenshot3" width="800"/>
+![screenshot3](/tasks/1.png)
